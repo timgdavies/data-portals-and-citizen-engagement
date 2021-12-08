@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/dateAdded> <http://www.w3.org/2000/01/rdf-schema#label> "Date Added"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.
+<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/manualTags> <http://www.w3.org/2000/01/rdf-schema#label> "Manual Tags"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.

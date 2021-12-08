@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/extra> <http://www.w3.org/2000/01/rdf-schema#label> "Extra"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.
+<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/notes> <http://www.w3.org/2000/01/rdf-schema#label> "Notes"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.

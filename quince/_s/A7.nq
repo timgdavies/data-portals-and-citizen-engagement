@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/references> <http://www.w3.org/2000/01/rdf-schema#label> "References"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.
+<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/url> <http://www.w3.org/2000/01/rdf-schema#label> "Url"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.

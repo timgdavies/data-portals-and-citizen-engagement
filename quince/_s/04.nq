@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/place> <http://www.w3.org/2000/01/rdf-schema#label> "Place"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.
+<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/publicationTitle> <http://www.w3.org/2000/01/rdf-schema#label> "Publication Title"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.

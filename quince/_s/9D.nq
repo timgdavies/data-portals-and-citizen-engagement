@@ -1,0 +1,2 @@
+﻿<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/editor> <http://www.w3.org/2000/01/rdf-schema#label> "Editor"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.
+<http://datadock.io/timgdavies/data-portals-and-citizen-engagement/id/definition/reporter> <http://www.w3.org/2000/01/rdf-schema#label> "Reporter"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/timgdavies/data-portals-and-citizen-engagement/definitions>.
